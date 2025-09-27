@@ -1,6 +1,6 @@
 # fitness4all
 
-A new Flutter project.
+A new Flutter project. It started out as a normal project, but now it means more to us.
 
 ## Getting Started
 
